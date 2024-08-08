@@ -31,12 +31,12 @@ function Footer() {
     >
       <div className="w-max flex items-center">
         <FooterLink
-          href="https://github.com/isunjn/pianoo"
+          href="https://github.com/muzihuaner/pianoo"
           name="GitHub"
           Icon={TbBrandGithub}
         />
         <FooterLink
-          href="mailto:pianoo@duck.com"
+          href="mailto:admin@huangetech.com"
           name={t("footer.contact")}
           Icon={TbMail}
         />
